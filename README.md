@@ -10,3 +10,5 @@ we will write that code in VOID LOOP(in arduino) ; and output in void steup, and
 
 RED LIGHT 
 ![image](https://user-images.githubusercontent.com/60343675/138508444-e275c66e-3055-4134-9f2f-0dae0bf34980.png)
+YELLOW LIGHT
+![image](https://user-images.githubusercontent.com/60343675/138508541-0576aee6-2940-49b4-8bed-e6fe671b30c9.png)
