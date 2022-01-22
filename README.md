@@ -1,7 +1,7 @@
 # TRAFFIC-DIGNAL
 traffic signal using Arduino 
 
-DEVICE USED- ARDUINO UNO, RED,GREEN,YELLOW LED, 7 SEGMENT DISPLAY, RESISTANCE
+DEVICE USED- ARDUINO UNO R3, RED,GREEN,YELLOW LED BULB, 7 SEGMENT DISPLAY, RESISTOR
 
 HERE I have written the code in arduino and after sucessful teSting of the code the ".hex" file needed to be paste in the properties of arduino uno in Proteus software.
 
